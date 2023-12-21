@@ -136,8 +136,7 @@ def compute_log_returns(prices):
         Log returns for each ticker and date
     """
     # TODO: Implement Function
-    
-    return None
+    return (close - close.shift(1))/close.shift(1)
 
 project_tests.test_compute_log_returns(compute_log_returns)
 
