@@ -37,7 +37,7 @@ print(f"Raw return on stock price for {t} is {raw_return(t)} between {data['Date
 
 def log_returns() -> []:
     """
-    
+    Hello
     """
 
 # Plotting
