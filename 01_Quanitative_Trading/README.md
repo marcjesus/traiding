@@ -1,8 +1,13 @@
 # TERMINOLOGY
 
-**Stock**: An asset that represents ownership in a company. A claim on part of a corportation's assets and earnings. There are two main types, common and preferred.
+**Stock**: An asset that represents ownership in a company. A claim on part of a corportation's assets and earnings. There are two main types, common and preferred.<br>
+Returns : You subtract the original price of a stock from the current price of a stock and divide the sum by the original price. For example, if you buy a share of XYZ Successful Company on Jan. 1, 2022, for $100 and sell it for $120 on Dec. 31, 2022, then the CGY for that investment is 20% <br>
+Log returns: TBF <br>
+![Image Alt Text](..00_Files/images/normality_long_term.jpg)
 
-**Share**: A single share represents partial ownership of a company relative to the total number of shares in existence.
+
+
+**Share**: A single share represents partial ownership of a company relative to the total number of shares in existence.<br>
 
 **Common Stock**: One main type of stock; entitles the owner to receive dividends and to vote at shareholder meetings.
 

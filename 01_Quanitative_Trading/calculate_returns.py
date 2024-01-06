@@ -25,4 +25,4 @@ def calculate_returns(close):
     
     return (close - close.shift(1))/close.shift(1)
 
-calculate_returns(calculate_returns)
+print(calculate_returns(close))
